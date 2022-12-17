@@ -72,3 +72,4 @@
 > Я все равно своего добьюсь!
 # Для того, чтобы добавить **картинку** надо
 ![картинка] (https://img1.goodfon.ru/original/1503x845/b/d9/yagody-malina-listochek.jpg)
+
